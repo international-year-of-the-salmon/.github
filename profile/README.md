@@ -7,7 +7,7 @@
 👨🏽‍💻 The repositories all contain the following folders:
    
 * `original_data` contains processed data files that have been sent to the IYS Data Scientists that have not been formatted to the IYS Data Template.
-* `IYS_data_template` contains the processed data files that have been provided in the IYS Data Template.
+* `IYS_data_template` contains the processed data files that have been provided in the IYS Data Template. This folder will only be included in repositories containing data collected during the 2022 Expedition.
 * `standardized_data` contains the standardized data tables as they will be published to OBIS or ERDDAP.
 * `scripts` contains the code used to format the data files from either the `original_data` or `IYS_data_template folder` to the data tables as found in `standardized_data`.
 * `docs` contains any supplementary material, protocols, changelogs etc relevant for data interpretation.   
